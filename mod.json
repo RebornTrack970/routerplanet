@@ -2,9 +2,10 @@
     "name": "rpm",
     "displayName": "Router Planet",
     "description": "Adds router planet",
-    "author": "RTOmega",
-    "version": 0.1,
+    "author": "[yellow]RT[cyan]Omega [purple]& [red]Qmelz ",
+    "version": 0.2,
     "minGameVersion": 120
+    "hidden": true;
 }
 // hjson sucks.
 // i need mod.json for it :(
