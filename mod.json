@@ -1,0 +1,9 @@
+{
+    "name": "rpm",
+    "displayName": "Router Planet",
+    "description": "Adds router planet",
+    "author": "RTOmega",
+    "version": 0.1,
+    "minGameVersion": 120
+}
+// hjson sucks.
