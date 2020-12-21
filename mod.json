@@ -4,7 +4,7 @@
     "description": "Adds router planet",
     "author": "[yellow]RT[cyan]Omega [purple]& [red]Qmelz ",
     "version": 0.2,
-    "minGameVersion": 120
+    "minGameVersion": 120,
     "hidden": true
 }
 // hjson sucks.
