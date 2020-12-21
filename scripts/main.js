@@ -15,7 +15,7 @@ Events.on(ClientLoadEvent, () => {
     routros.alwaysUnlocked = true;
     routros.localizedName = "Router";
 
-    for(var i = 0, i < 31, i++){
+    for(var i = 0; i < 31; i++){
         var h = new SectorPreset("router", routros, i);
         h.localizedName = "Router" + i;
         h.alwaysUnlocked = true;
